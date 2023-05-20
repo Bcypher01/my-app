@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # banao-one
 =======
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
@@ -40,3 +41,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 >>>>>>> 41b6243 (Initial commit from Create Next App)
+=======
+# banao-one
+>>>>>>> 351777234535932b0724b6c1d7d6a61c8381d9fc
